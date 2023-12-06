@@ -14,5 +14,5 @@ code.
 
 |S.no|Date|File name|Topic|Link|
 |:----:|:----:|:---:|:----:|:----:|
-|CAC-1.|24-10-23|CAC-01|Mobile Store Management.|[CAC01](https://dhruvilpatel02.github.io/MScDSB_23122138_DhruvilPatel_WebDevelopment/)|
+|CAC-1.|24-10-23|CAC-01|Portfolio.|[CAC01](https://dhruvilpatel02.github.io/MScDSB_23122138_DhruvilPatel_WebDevelopment/)|
 
